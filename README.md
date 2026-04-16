@@ -76,13 +76,6 @@ Cloud & DevOps Engineer | Automation-Focused | Scalable Systems
   <li>🔐 Security Testing (OWASP ZAP)</li>
 </ul>
 
----
-
-<h2>🏆 Achievements</h2>
-
-<ul>
-  <li>🥇 Smart India Hackathon (SIH) 2025 Participant</li>
-</ul>
 
 ---
 
